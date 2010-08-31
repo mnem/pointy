@@ -1,0 +1,9 @@
+body{
+    background:#F2AD2C;
+    text-align: center;
+}
+#moviecontainer{
+    width:640px;
+    height:480px;
+    margin:0 auto;
+}
